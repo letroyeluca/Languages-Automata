@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Languages_Automata.dir/DFA.cpp.o"
   "CMakeFiles/Languages_Automata.dir/main.cpp.o"
   "Languages_Automata"
   "Languages_Automata.pdb"

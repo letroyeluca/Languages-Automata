@@ -78,6 +78,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/DFA.cpp">
+			<Option target="Languages_Automata"/>
+		</Unit>
+		<Unit filename="/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/DFA.h">
+			<Option target="Languages_Automata"/>
+		</Unit>
 		<Unit filename="/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/main.cpp">
 			<Option target="Languages_Automata"/>
 		</Unit>

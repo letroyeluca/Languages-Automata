@@ -129,6 +129,30 @@ Languages_Automata/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Languages_Automata.dir/build.make CMakeFiles/Languages_Automata.dir/build
 .PHONY : Languages_Automata/fast
 
+DFA.o: DFA.cpp.o
+.PHONY : DFA.o
+
+# target to build an object file
+DFA.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Languages_Automata.dir/build.make CMakeFiles/Languages_Automata.dir/DFA.cpp.o
+.PHONY : DFA.cpp.o
+
+DFA.i: DFA.cpp.i
+.PHONY : DFA.i
+
+# target to preprocess a source file
+DFA.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Languages_Automata.dir/build.make CMakeFiles/Languages_Automata.dir/DFA.cpp.i
+.PHONY : DFA.cpp.i
+
+DFA.s: DFA.cpp.s
+.PHONY : DFA.s
+
+# target to generate assembly for a file
+DFA.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Languages_Automata.dir/build.make CMakeFiles/Languages_Automata.dir/DFA.cpp.s
+.PHONY : DFA.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Languages_Automata"
+	@echo "... DFA.o"
+	@echo "... DFA.i"
+	@echo "... DFA.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

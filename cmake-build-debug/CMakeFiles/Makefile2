@@ -81,12 +81,12 @@ clean: CMakeFiles/Languages_Automata.dir/clean
 CMakeFiles/Languages_Automata.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Languages_Automata.dir/build.make CMakeFiles/Languages_Automata.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Languages_Automata.dir/build.make CMakeFiles/Languages_Automata.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Languages_Automata"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Languages_Automata"
 .PHONY : CMakeFiles/Languages_Automata.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Languages_Automata.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Languages_Automata.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Languages_Automata.dir/rule

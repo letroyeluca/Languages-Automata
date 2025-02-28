@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/DFA.cpp" "/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/cmake-build-debug/CMakeFiles/Languages_Automata.dir/DFA.cpp.o"
   "/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/main.cpp" "/Users/lucaletroye/Documents/PROJECTEN/Languages-Automata/cmake-build-debug/CMakeFiles/Languages_Automata.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
